@@ -1,0 +1,135 @@
+C:\temp\homework\lottery test\lottery test\bin\Debug\lottery test.exe.config
+C:\temp\homework\lottery test\lottery test\bin\Debug\lottery test.exe
+C:\temp\homework\lottery test\lottery test\bin\Debug\lottery test.pdb
+C:\temp\homework\lottery test\lottery test\obj\Debug\lottery test.csprojResolveAssemblyReference.cache
+C:\temp\homework\lottery test\lottery test\obj\Debug\lottery_test.Form1.resources
+C:\temp\homework\lottery test\lottery test\obj\Debug\lottery_test.Properties.Resources.resources
+C:\temp\homework\lottery test\lottery test\obj\Debug\lottery test.csproj.GenerateResource.Cache
+C:\temp\homework\lottery test\lottery test\obj\Debug\lottery test.exe
+C:\temp\homework\lottery test\lottery test\obj\Debug\lottery test.pdb
+C:\temp\homework\lottery test1\lottery test\bin\Debug\lottery test.exe.config
+C:\temp\homework\lottery test1\lottery test\obj\Debug\lottery test.exe
+C:\temp\homework\lottery test1\lottery test\obj\Debug\lottery test.pdb
+C:\temp\homework\lottery test1\lottery test\bin\Debug\lottery test.exe
+C:\temp\homework\lottery test1\lottery test\bin\Debug\lottery test.pdb
+C:\temp\homework\lottery test1\lottery test\obj\Debug\lottery test.csprojResolveAssemblyReference.cache
+C:\temp\homework\lottery test1\lottery test\obj\Debug\lottery_test.Form1.resources
+C:\temp\homework\lottery test1\lottery test\obj\Debug\lottery_test.Properties.Resources.resources
+C:\temp\homework\lottery test1\lottery test\obj\Debug\lottery test.csproj.GenerateResource.Cache
+C:\temp\homework\lottery test2\lottery test\bin\Debug\lottery test.exe.config
+C:\temp\homework\lottery test2\lottery test\obj\Debug\lottery test.exe
+C:\temp\homework\lottery test2\lottery test\obj\Debug\lottery test.pdb
+C:\temp\homework\lottery test2\lottery test\bin\Debug\lottery test.exe
+C:\temp\homework\lottery test2\lottery test\bin\Debug\lottery test.pdb
+C:\temp\homework\lottery test2\lottery test\obj\Debug\lottery test.csprojResolveAssemblyReference.cache
+C:\temp\homework\lottery test2\lottery test\obj\Debug\lottery_test.Form1.resources
+C:\temp\homework\lottery test2\lottery test\obj\Debug\lottery_test.Properties.Resources.resources
+C:\temp\homework\lottery test2\lottery test\obj\Debug\lottery test.csproj.GenerateResource.Cache
+C:\temp\homework\lottery test3\lottery test\bin\Debug\lottery test.exe.config
+C:\temp\homework\lottery test3\lottery test\obj\Debug\lottery test.exe
+C:\temp\homework\lottery test3\lottery test\obj\Debug\lottery test.pdb
+C:\temp\homework\lottery test3\lottery test\bin\Debug\lottery test.exe
+C:\temp\homework\lottery test3\lottery test\bin\Debug\lottery test.pdb
+C:\temp\homework\lottery test3\lottery test\obj\Debug\lottery test.csprojResolveAssemblyReference.cache
+C:\temp\homework\lottery test3\lottery test\obj\Debug\lottery_test.Form1.resources
+C:\temp\homework\lottery test3\lottery test\obj\Debug\lottery_test.Properties.Resources.resources
+C:\temp\homework\lottery test3\lottery test\obj\Debug\lottery test.csproj.GenerateResource.Cache
+C:\temp\homework\lottery test4\lottery test\bin\Debug\lottery test.exe.config
+C:\temp\homework\lottery test4\lottery test\obj\Debug\lottery test.exe
+C:\temp\homework\lottery test4\lottery test\obj\Debug\lottery test.pdb
+C:\temp\homework\lottery test4\lottery test\bin\Debug\lottery test.exe
+C:\temp\homework\lottery test4\lottery test\bin\Debug\lottery test.pdb
+C:\temp\homework\lottery test4\lottery test\obj\Debug\lottery test.csprojResolveAssemblyReference.cache
+C:\temp\homework\lottery test4\lottery test\obj\Debug\lottery_test.Form1.resources
+C:\temp\homework\lottery test4\lottery test\obj\Debug\lottery_test.Properties.Resources.resources
+C:\temp\homework\lottery test4\lottery test\obj\Debug\lottery test.csproj.GenerateResource.Cache
+C:\temp\homework\lottery test5\lottery test\bin\Debug\lottery test.exe.config
+C:\temp\homework\lottery test5\lottery test\obj\Debug\lottery test.exe
+C:\temp\homework\lottery test5\lottery test\obj\Debug\lottery test.pdb
+C:\temp\homework\lottery test5\lottery test\bin\Debug\lottery test.exe
+C:\temp\homework\lottery test5\lottery test\bin\Debug\lottery test.pdb
+C:\temp\homework\lottery test5\lottery test\obj\Debug\lottery test.csprojResolveAssemblyReference.cache
+C:\temp\homework\lottery test5\lottery test\obj\Debug\lottery_test.Form1.resources
+C:\temp\homework\lottery test5\lottery test\obj\Debug\lottery_test.Properties.Resources.resources
+C:\temp\homework\lottery test5\lottery test\obj\Debug\lottery test.csproj.GenerateResource.Cache
+C:\temp\homework\lottery test6\lottery test\bin\Debug\lottery test.exe.config
+C:\temp\homework\lottery test6\lottery test\obj\Debug\lottery test.exe
+C:\temp\homework\lottery test6\lottery test\obj\Debug\lottery test.pdb
+C:\temp\homework\lottery test6\lottery test\bin\Debug\lottery test.exe
+C:\temp\homework\lottery test6\lottery test\bin\Debug\lottery test.pdb
+C:\temp\homework\lottery test6\lottery test\obj\Debug\lottery test.csprojResolveAssemblyReference.cache
+C:\temp\homework\lottery test6\lottery test\obj\Debug\lottery_test.Form1.resources
+C:\temp\homework\lottery test6\lottery test\obj\Debug\lottery_test.Properties.Resources.resources
+C:\temp\homework\lottery test6\lottery test\obj\Debug\lottery test.csproj.GenerateResource.Cache
+C:\temp\homework\lottery test7\lottery test\bin\Debug\lottery test.exe.config
+C:\temp\homework\lottery test7\lottery test\obj\Debug\lottery test.exe
+C:\temp\homework\lottery test7\lottery test\obj\Debug\lottery test.pdb
+C:\temp\homework\lottery test7\lottery test\bin\Debug\lottery test.exe
+C:\temp\homework\lottery test7\lottery test\bin\Debug\lottery test.pdb
+C:\temp\homework\lottery test7\lottery test\obj\Debug\lottery test.csprojResolveAssemblyReference.cache
+C:\temp\homework\lottery test7\lottery test\obj\Debug\lottery_test.Form1.resources
+C:\temp\homework\lottery test7\lottery test\obj\Debug\lottery_test.Properties.Resources.resources
+C:\temp\homework\lottery test7\lottery test\obj\Debug\lottery test.csproj.GenerateResource.Cache
+C:\temp\homework\lottery test8\lottery test\bin\Debug\lottery test.exe.config
+C:\temp\homework\lottery test8\lottery test\obj\Debug\lottery test.exe
+C:\temp\homework\lottery test8\lottery test\obj\Debug\lottery test.pdb
+C:\temp\homework\lottery test8\lottery test\bin\Debug\lottery test.exe
+C:\temp\homework\lottery test8\lottery test\bin\Debug\lottery test.pdb
+C:\temp\homework\lottery test8\lottery test\obj\Debug\lottery test.csprojResolveAssemblyReference.cache
+C:\temp\homework\lottery test8\lottery test\obj\Debug\lottery_test.Form1.resources
+C:\temp\homework\lottery test8\lottery test\obj\Debug\lottery_test.Properties.Resources.resources
+C:\temp\homework\lottery test8\lottery test\obj\Debug\lottery test.csproj.GenerateResource.Cache
+C:\temp\homework\lottery test9\lottery test\bin\Debug\lottery test.exe.config
+C:\temp\homework\lottery test9\lottery test\obj\Debug\lottery test.exe
+C:\temp\homework\lottery test9\lottery test\obj\Debug\lottery test.pdb
+C:\temp\homework\lottery test9\lottery test\bin\Debug\lottery test.exe
+C:\temp\homework\lottery test9\lottery test\bin\Debug\lottery test.pdb
+C:\temp\homework\lottery test9\lottery test\obj\Debug\lottery test.csprojResolveAssemblyReference.cache
+C:\temp\homework\lottery test9\lottery test\obj\Debug\lottery_test.Form1.resources
+C:\temp\homework\lottery test9\lottery test\obj\Debug\lottery_test.Properties.Resources.resources
+C:\temp\homework\lottery test9\lottery test\obj\Debug\lottery test.csproj.GenerateResource.Cache
+C:\temp\homework\lottery test10\lottery test\bin\Debug\lottery test.exe.config
+C:\temp\homework\lottery test10\lottery test\obj\Debug\lottery test.exe
+C:\temp\homework\lottery test10\lottery test\obj\Debug\lottery test.pdb
+C:\temp\homework\lottery test10\lottery test\bin\Debug\lottery test.exe
+C:\temp\homework\lottery test10\lottery test\bin\Debug\lottery test.pdb
+C:\temp\homework\lottery test10\lottery test\obj\Debug\lottery test.csprojResolveAssemblyReference.cache
+C:\temp\homework\lottery test10\lottery test\obj\Debug\lottery_test.Form1.resources
+C:\temp\homework\lottery test10\lottery test\obj\Debug\lottery_test.Properties.Resources.resources
+C:\temp\homework\lottery test10\lottery test\obj\Debug\lottery test.csproj.GenerateResource.Cache
+C:\temp\homework\lottery test11\lottery test\bin\Debug\lottery test.exe.config
+C:\temp\homework\lottery test11\lottery test\obj\Debug\lottery test.exe
+C:\temp\homework\lottery test11\lottery test\obj\Debug\lottery test.pdb
+C:\temp\homework\lottery test11\lottery test\bin\Debug\lottery test.exe
+C:\temp\homework\lottery test11\lottery test\bin\Debug\lottery test.pdb
+C:\temp\homework\lottery test11\lottery test\obj\Debug\lottery test.csprojResolveAssemblyReference.cache
+C:\temp\homework\lottery test11\lottery test\obj\Debug\lottery_test.Form1.resources
+C:\temp\homework\lottery test11\lottery test\obj\Debug\lottery_test.Properties.Resources.resources
+C:\temp\homework\lottery test11\lottery test\obj\Debug\lottery test.csproj.GenerateResource.Cache
+C:\temp\homework\lottery test12\lottery test\bin\Debug\lottery test.exe.config
+C:\temp\homework\lottery test12\lottery test\obj\Debug\lottery test.exe
+C:\temp\homework\lottery test12\lottery test\obj\Debug\lottery test.pdb
+C:\temp\homework\lottery test12\lottery test\bin\Debug\lottery test.exe
+C:\temp\homework\lottery test12\lottery test\bin\Debug\lottery test.pdb
+C:\temp\homework\lottery test12\lottery test\obj\Debug\lottery test.csprojResolveAssemblyReference.cache
+C:\temp\homework\lottery test12\lottery test\obj\Debug\lottery_test.Form1.resources
+C:\temp\homework\lottery test12\lottery test\obj\Debug\lottery_test.Properties.Resources.resources
+C:\temp\homework\lottery test12\lottery test\obj\Debug\lottery test.csproj.GenerateResource.Cache
+C:\temp\homework\lottery test13\lottery test\bin\Debug\lottery test.exe.config
+C:\temp\homework\lottery test13\lottery test\obj\Debug\lottery test.exe
+C:\temp\homework\lottery test13\lottery test\obj\Debug\lottery test.pdb
+C:\temp\homework\lottery test13\lottery test\bin\Debug\lottery test.exe
+C:\temp\homework\lottery test13\lottery test\bin\Debug\lottery test.pdb
+C:\temp\homework\lottery test13\lottery test\obj\Debug\lottery test.csprojResolveAssemblyReference.cache
+C:\temp\homework\lottery test13\lottery test\obj\Debug\lottery_test.Form1.resources
+C:\temp\homework\lottery test13\lottery test\obj\Debug\lottery_test.Properties.Resources.resources
+C:\temp\homework\lottery test13\lottery test\obj\Debug\lottery test.csproj.GenerateResource.Cache
+C:\temp\homework\lottery test14\lottery test\bin\Debug\lottery test.exe.config
+C:\temp\homework\lottery test14\lottery test\obj\Debug\lottery test.exe
+C:\temp\homework\lottery test14\lottery test\obj\Debug\lottery test.pdb
+C:\temp\homework\lottery test14\lottery test\bin\Debug\lottery test.exe
+C:\temp\homework\lottery test14\lottery test\bin\Debug\lottery test.pdb
+C:\temp\homework\lottery test14\lottery test\obj\Debug\lottery test.csprojResolveAssemblyReference.cache
+C:\temp\homework\lottery test14\lottery test\obj\Debug\lottery_test.Form1.resources
+C:\temp\homework\lottery test14\lottery test\obj\Debug\lottery_test.Properties.Resources.resources
+C:\temp\homework\lottery test14\lottery test\obj\Debug\lottery test.csproj.GenerateResource.Cache
